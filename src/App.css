@@ -52,7 +52,7 @@ body {
     flex-direction: column;
     padding-left: 30px;
 }
-.card .card_image {
+.card img {
     width: 176px;
     height: 235px;
 }
