@@ -47,6 +47,10 @@ body {
     margin-top: 0;
 }
 /* Card section */
+.card-box {
+    display: flex;
+    /* flex-direction: row; */
+}
 .card{
     display: flex;
     flex-direction: column;
